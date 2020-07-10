@@ -73,9 +73,9 @@ Power Cable(~20cm)
 
 このような感じでFDD（写真はGotek FDDエミュレーターです）に取り付けます。
 
-![example](https://github.com/marucome09/26Pto34P_conv/blob/master/fit_example.JPG )
+![example](https://github.com/marucome09/24PFFCto34P_conv/blob/master/fit_example.JPG )
 
-![example](https://github.com/marucome09/26Pto34P_conv/blob/master/fit_example2.JPG )
+![example](https://github.com/marucome09/24PFFCto34P_conv/blob/master/fit_example2.JPG )
 
 # Note
 
