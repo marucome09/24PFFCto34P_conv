@@ -67,7 +67,7 @@ Power Cable(~20cm)
 
 なお、FDD(もしくはエミュレーター）側の電源コネクタはこのように制作します。
 
-![power](https://github.com/marucome09/24PFFCto34P_conv/blob/master/FDD_power.JPG )
+![power](https://github.com/marucome09/24PFFCto34P_conv/blob/master/FDD_power.jpg )
 
 # Usage
 
