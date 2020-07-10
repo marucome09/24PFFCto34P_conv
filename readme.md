@@ -65,12 +65,6 @@ Power Cable(~20cm)
 
 もしくはケーブル直付けでも構いません。ヘッダの向きも＋－が合っていればどちら向きでもOKです。
 
-![power_header](https://github.com/marucome09/24PFFCto34P_conv/blob/master/power_header.JPG )
-
-上に合わせてケーブルを作成し取り付けて完成です。
-
-![power_conn](https://github.com/marucome09/24PFFCto34P_conv/blob/master/power_conn.JPG )
-
 なお、FDD(もしくはエミュレーター）側の電源コネクタはこのように制作します。
 
 ![product26](https://github.com/marucome09/24PFFCto34P_conv/blob/master/FDD_power.JPG )
