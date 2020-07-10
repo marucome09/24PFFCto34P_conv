@@ -11,7 +11,7 @@ This is 24PFFC FDD I/F(Matsushita/Panasonic EME-213xx) convert to FDD for PC(or 
 松下 EME-213xx FDDの24PinFFCの信号線を、PC用34Pに変換するボードです。
 
 (Yamaha Y300/SY85/MDF2/W5/W7等多くに使用されています)
-詳細はSettingdoc.pdfを参照ください。
+詳細はmanual_j.pdfを参照ください。
 
 # Features　おすすめポイント
 Designed to be attached directly to FDD(or emulator).
@@ -85,7 +85,7 @@ Power Cable(~20cm)
 
 ・一部FDDには取り付け不可能です（ミツミ D353M3Dなど、電源コネクタが信号コネクタの真上にある場合など）（物理的要件）
 
-・取り付けに際しては必ずSetting.pdf、SY85の場合はsy85.pdfも併せてお読みください。
+・取り付けに際しては必ず.pdf、SY85の場合はsy85.pdfも併せてお読みください。
 
 ☆なお、FDDエミュレーターはGotek純正では動作確認を行っておりません。必ずファームウェアを書き換えてご使用ください。
 
