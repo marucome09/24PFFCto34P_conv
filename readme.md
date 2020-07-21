@@ -10,7 +10,7 @@ This is 24PFFC FDD I/F(Matsushita/Panasonic EME-213xx) convert to FDD for PC(or 
 
 松下 EME-213xx FDDの24PinFFCの信号線を、PC用34Pに変換するボードです。
 
-(Yamaha Y300/SY85/MDF2/W5/W7等多くに使用されています)
+(Yamaha QY300/SY85/MDF2/W5/W7等多くに使用されています)
 
 詳細はmanual_j.pdf、またはWikiを参照ください。
 
