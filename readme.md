@@ -12,6 +12,8 @@ This is 24PFFC FDD I/F(Matsushita/Panasonic EME-213xx) convert to FDD for PC(or 
 
 (Yamaha QY300/SY85/MDF2/W5/W7等多くに使用されています)
 
+注意：この機器の取り付けによって起きたいかなるトラブルに対しても、当方は（スイッチサイエンス様で販売いただいている製品版についての製品不良時の製品交換以外）一切の責任を負いかねます。取り付けに際しては細心の注意を払い、慎重に取り付けてください。
+
 詳細はWikiを参照ください。
 
 [to Wiki Page](../../wiki)
