@@ -1,6 +1,5 @@
 # 24PFFCto34P_conv
 
-※写真は試作品のため、実際の写真とは若干ですが異なります（実際はこれにジャンパーが追加され、少し大きくなります）
 
 ![product24F](https://github.com/marucome09/24PFFCto34P_conv/blob/master/product24f.JPG )
 
