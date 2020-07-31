@@ -18,11 +18,11 @@ This is 24PFFC FDD I/F(Matsushita/Panasonic EME-213xx) convert to FDD for PC(or 
 [to Wiki Page](../../wiki)
 
 # Features　おすすめポイント
-Designed to be attached directly to FDD(or emulator).
+- Designed to be attached directly to FDD(or emulator).
 
-設計上直接FDDに取り付けられるので、場所を取らず、両面テープを用意する必要がありません（ただしFDDによっては34ピンコネクタの上部を絶縁テープなどで絶縁する必要があります）。
+- 設計上直接FDDに取り付けられるので、場所を取らず、両面テープを用意する必要がありません（ただしFDDによっては34ピンコネクタの上部を絶縁テープなどで絶縁する必要があります）。
 
-このボードは、HxC for Gotek, Flashfloppy(for Gotek hardware)、PC用FDDに幅広く対応します。
+- このボードは、HxC for Gotek, Flashfloppy(for Gotek hardware)、PC用FDDに幅広く対応します。
 
 注意：スイッチサイエンス様より発売する製品版につきましては、写真にあります電源部のコネクタはオミットされておりますのでご了承ください。
 
