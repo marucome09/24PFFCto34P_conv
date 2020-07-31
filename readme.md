@@ -60,17 +60,15 @@ Power Cable(~20cm)
 
 ![solder2](https://github.com/marucome09/24PFFCto34P_conv/blob/master/solder2.JPG )
 
-電源の２Pコネクタは、コネクタ側（内側）が＋極になっています。それに合わせて2pピンヘッダをつけます。
+![solder4](https://github.com/marucome09/24PFFCto34P_conv/blob/master/solder4.JPG )
 
-(写真は試作品のためありませんが、3Pピンヘッダもこの段階で取り付けます。)
+![solder5](https://github.com/marucome09/24PFFCto34P_conv/blob/master/solder5.JPG )
+
+電源の２P端子(左上）は、コネクタ側（内側）が＋極になっています。その下の端子には3Pピンヘッダを付けます。、
 
 ![solder3](https://github.com/marucome09/24PFFCto34P_conv/blob/master/solder3.JPG )
 
-![solder3](https://github.com/marucome09/24PFFCto34P_conv/blob/master/solder4.JPG )
-
-
-
-もしくはケーブル直付けでも構いません。ヘッダの向きも＋－が合っていればどちら向きでもOKです。
+![solder6](https://github.com/marucome09/24PFFCto34P_conv/blob/master/solder6.JPG )
 
 なお、FDD(もしくはエミュレーター）側の電源コネクタはこのように制作します。
 
@@ -79,6 +77,8 @@ Power Cable(~20cm)
 # Usage
 
 このような感じでFDD（写真はGotek FDDエミュレーターです）に取り付けます。
+
+※写真はテスト品のため電源部にコネクタがついています。また外観や回路も一部違います。
 
 ![example](https://github.com/marucome09/24PFFCto34P_conv/blob/master/fit_example.JPG )
 
@@ -89,6 +89,15 @@ Power Cable(~20cm)
 必ず慎重に、ずれがないかを確認しながら取り付けてください。
 
 また、必ず写真の向きで取り付けてください。上下逆にした場合、本体やFDD（FDDエミュレーターなど）を損傷する恐れがあります。
+
+
+本体からの接続は、もともとSY85についているFFCケーブルをそのまま流用します。金属部分（接点）を必ず上にして差し込みます。
+
+![example](https://github.com/marucome09/24PFFCto34P_conv/blob/master/ffc.JPG )
+
+FFCの構造上1番ピンを示す切り欠きの位置が逆になりますが、これで間違いはありません。
+
+![example](https://github.com/marucome09/24PFFCto34P_conv/blob/master/ffc_2.JPG )
 
 なお、その他の機器固有の接続に関する注意点、設定についても必ずお読みください。wikiに記載しておきます。
 
@@ -102,11 +111,19 @@ Power Cable(~20cm)
 
 ・一部FDDには取り付け不可能です（ミツミ D353M3Dなど、電源コネクタが信号コネクタの真上にある場合など）（物理的要件）
 
-・取り付けに際しては必ず.pdf、SY85の場合はsy85.pdfも併せてお読みください。
-
 ☆なお、FDDエミュレーターはGotek純正では動作確認を行っておりません。必ずファームウェアを書き換えてご使用ください。
 
 ☆HxC SD Floppy Emulator（Rev.F）を使用の場合、機器長の関係で取り付けが困難になる可能性があります。
+
+- コネクタの直上までFDDのフレームや、金属カバーが伸びてきているタイプの場合、変換コネクタの金属部分が当たってショートする恐れがあります。（写真のような場合）
+
+![ze](https://github.com/marucome09/26Pto34P_conv/blob/master/FDD_contact24.JPG )
+
+この場合は、当たる面、つまり26ピンコネクタの裏側に（下の写真の赤で囲った部分を中心に全体的に）絶縁テープなどを使って絶縁してください。
+
+このほかにも、フレームや筺体などの金属部分に当たりそうな場所があれば絶縁しておくことをお勧めします。
+
+![ze](https://github.com/marucome09/26Pto34P_conv/blob/master/FDD_contact24_2.JPG )
 
 # License
 
