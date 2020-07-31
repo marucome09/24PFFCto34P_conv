@@ -68,7 +68,7 @@ Power Cable(~20cm)
 
 ![solder3](https://github.com/marucome09/24PFFCto34P_conv/blob/master/solder4.JPG )
 
-![box_socket](https://github.com/marucome09/24PFFCto34P_conv/blob/master/box_socket.JPG )
+
 
 もしくはケーブル直付けでも構いません。ヘッダの向きも＋－が合っていればどちら向きでもOKです。
 
