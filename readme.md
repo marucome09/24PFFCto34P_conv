@@ -91,6 +91,7 @@ Power Cable(~20cm)
 また、必ず写真の向きで取り付けてください。上下逆にした場合、本体やFDD（FDDエミュレーターなど）を損傷する恐れがあります。
 
 
+
 本体からの接続は、もともとSY85についているFFCケーブルをそのまま流用します。金属部分（接点）を必ず上にして差し込みます。
 
 ![example](https://github.com/marucome09/24PFFCto34P_conv/blob/master/ffc.JPG )
