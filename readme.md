@@ -118,13 +118,13 @@ FFCの構造上1番ピンを示す切り欠きの位置が逆になりますが�
 
 - コネクタの直上までFDDのフレームや、金属カバーが伸びてきているタイプの場合、変換コネクタの金属部分が当たってショートする恐れがあります。（写真のような場合）
 
-![ze](https://github.com/marucome09/26Pto34P_conv/blob/master/fdd_contact24.JPG )
+![ze](https://github.com/marucome09/24PFFCto34P_conv/blob/master/fdd_contact24.JPG )
 
 この場合は、当たる面、つまり26ピンコネクタの裏側に（下の写真の赤で囲った部分を中心に全体的に）絶縁テープなどを使って絶縁してください。
 
 このほかにも、フレームや筺体などの金属部分に当たりそうな場所があれば絶縁しておくことをお勧めします。
 
-![ze](https://github.com/marucome09/26Pto34P_conv/blob/master/fdd_contact24_2.JPG )
+![ze](https://github.com/marucome09/24PFFCto34P_conv/blob/master/fdd_contact24_2.JPG )
 
 # License
 
